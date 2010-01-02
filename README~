@@ -1,0 +1,17 @@
+TimeDurationCalculation
+=======================
+
+Introduction goes here.
+	The plugin will be used for time calculation between two different time. Just now with limited condition it will return you the time duration./
+
+Example
+=======
+1. include the file where ever you want to use or add the code at the bottom of your environment file.
+   include TimeDurationCalculation
+
+2. Parse the seconds and it will return the following
+for e.g - 
+parse_seconds(36000)
+return 10:00:00
+
+
