@@ -4,6 +4,10 @@ TimeDurationCalculation
 Introduction goes here.
 	The plugin will be used for time calculation between two different time. Just now with limited condition it will return you the time duration.
 
+Installation
+============
+script/plugin install git@github.com:abhishekpshukla/time_duration_calculation.git
+
 Example
 =======
 1. include the file where ever you want to use or add the code at the bottom of your environment file.
